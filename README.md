@@ -2,9 +2,11 @@
 
 **Koromo** is codename for a cozy game project that combines **social simulation** and **management simulation** mechanics, inspired by titles like *Stardew Valley*, *Persona*, and *Animal Crossing*.
 
-In this game, the player runs a food business, choosing from a variety of dishes and customizing its aesthetic.\
-Managing the establishment involves purchasing supplies, hiring staff, handling finances, and maintaining daily operations.\
-Talking to NPCs is a key part of the game. By building relationships, players can unlock better deals, new suppliers, staff, recipes, and additional content through side quests.\
+In this game, the player runs a new food business near a busy subway station in downtown, choosing between different establishment types (Trattoria, Café, Mexican, Izakaya) and customizing its aesthetic.  
+
+Managing the establishment involves purchasing supplies, hiring staff, handling finances, and maintaining daily operations.  
+
+As a newcomer to the city, interacting with NPCs is a key part of the experience. By building relationships, players can unlock better deals, new suppliers, staff recruitment options, recipes, and additional content through side quests.
 
 > ***This project is currently in early development. Features and structure may change over time.***
 
@@ -28,9 +30,8 @@ Talking to NPCs is a key part of the game. By building relationships, players ca
 
 ### Dependencies
 
-> [!NOTE]
+> NewtonsoftJson
 - Go to:  
   `Window > Package Management > Package Manager`  
-- Click: `+` → *Install package by name*  
-- Use the following identifier:
-com.unity.nuget.newtonsoft-json
+- Click: `+` → *Install package by name*  use:
+- com.unity.nuget.newtonsoft-json

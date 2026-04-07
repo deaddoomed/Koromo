@@ -1,10 +1,10 @@
 # Koromo Project
 
-**Koromo** is codename for a cozy game project that combines **relationship simulation** and **management simulation** mechanics, inspired by titles like *Stardew Valley*, *Persona*, and *Animal Crossing*.
+**Koromo** is codename for a cozy game project that combines **social simulation** and **management simulation** mechanics, inspired by titles like *Stardew Valley*, *Persona*, and *Animal Crossing*.
 
-In this game, the player runs a food business, choosing from a variety of dishes and customizing its aesthetic.  
-Managing the establishment involves purchasing supplies, hiring staff, handling finances, and maintaining daily operations.  
-Talking to NPCs is a key part of the game. By building relationships, players can unlock better deals, new suppliers, staff, recipes, and additional content through side quests.  
+In this game, the player runs a food business, choosing from a variety of dishes and customizing its aesthetic.\
+Managing the establishment involves purchasing supplies, hiring staff, handling finances, and maintaining daily operations.\
+Talking to NPCs is a key part of the game. By building relationships, players can unlock better deals, new suppliers, staff, recipes, and additional content through side quests.\
 
 > ***This project is currently in early development. Features and structure may change over time.***
 

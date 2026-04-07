@@ -14,7 +14,7 @@ This project is currently in early development. Features and structure may chang
 - Time and calendar system
 - Camera controller
 
-##Installation
+## Installation
 
 > [!IMPORTANT]  
 > Follow these steps to set up the project correctly:

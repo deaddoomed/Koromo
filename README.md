@@ -6,7 +6,15 @@ In this game, the player runs a food business, choosing from a variety of dishes
 Managing the establishment involves purchasing supplies, hiring staff, handling finances, and maintaining daily operations.
 Talking to NPCs is a key part of the game. By building relationships, players can unlock better deals, new suppliers, staff, recipes, and additional content through side quests.
 
-### Installation
+This project is currently in early development. Features and structure may change over time.
+
+## Features implemented
+
+- Basic UI (stats and in-game clock)
+- Time and calendar system
+- Camera controller
+
+##Installation
 
 > [!IMPORTANT]  
 > Follow these steps to set up the project correctly:
@@ -18,13 +26,11 @@ Talking to NPCs is a key part of the game. By building relationships, players ca
 4. Remove the previous project entry from Unity Hub (optional but recommended)  
 5. Add the repository folder as a project in Unity Hub  
 
-## Mechanics implemented
-
-- Basic UI with Stats and Clock
-- Time and Calendar System
-- Camera controller
+### Dependencies
 
 > [!NOTE]
-> Newtonsoft is needed. To install it, go to:
-> Window > Package Management > Package Manager > + > Install package by name  
-> Use: com.unity.nuget.newtonsoft-json
+- Go to:  
+  `Window > Package Management > Package Manager`  
+- Click: `+` → *Install package by name*  
+- Use the following identifier:
+com.unity.nuget.newtonsoft-json

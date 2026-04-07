@@ -20,5 +20,5 @@ The establishment management implies buying supplies, find people to help in the
 
 > [!NOTE]
 > Newtonsoft is needed. To install it, go to:
-> Window > Package Management > Package Manager > + > Installa package by name /n
+> Window > Package Management > Package Manager > + > Installa package by name  
 > Use: com.unity.nuget.newtonsoft-json
